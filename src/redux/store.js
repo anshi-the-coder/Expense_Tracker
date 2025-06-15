@@ -7,6 +7,6 @@ export const store = configureStore({
   reducer: {
     auth: authReducer,
     expenses: expenseReducer,
-    budget: budgetReducer,
+    //budget: budgetReducer,
   },
 });
